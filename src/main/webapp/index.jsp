@@ -6,7 +6,7 @@
   
   <h2> Call Us : +91-7709701108  </h2>
   
-  <h3> Remote : India || Maharshtra || Nagpur</h3>
+  <h3> Remote : India || Maharshtra </h3>
 
 </body>
 </html>
